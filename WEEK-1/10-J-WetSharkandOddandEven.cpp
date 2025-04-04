@@ -34,7 +34,6 @@ int main()
     else
         cout<<sum-min_odd<<endl;
     
-
     return 0;
 }
 

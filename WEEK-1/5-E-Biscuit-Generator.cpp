@@ -13,5 +13,6 @@ int main()
         buiscuit=(c/a)*b;
     }
     cout << buiscuit<< endl; 
+    
     return 0;
 }

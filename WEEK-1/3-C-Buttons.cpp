@@ -15,5 +15,6 @@ int main()
         coin=a+b;
         
     cout<<coin<<endl;
+    
     return 0;
 }
